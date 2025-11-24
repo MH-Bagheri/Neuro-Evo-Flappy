@@ -33,7 +33,7 @@ Instead of using a pre-made library like `neat-python`, this project implements 
 1.  **Clone the repository:**
 
     ```
-    git clone https://github.com/mohammadd13579/neuro-evo-flappy.git
+    git clone https://github.com/mh-bagheri/neuro-evo-flappy.git
     cd neuro-evo-flappy
     ```
 
